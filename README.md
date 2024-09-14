@@ -23,4 +23,4 @@ To run the project locally:
    ```bash
    npm run dev
    ```
-2. Open your browser and go to [http://localhost:5173](http://localhost:5173) (or the port specified).
+2. Open your browser and go to [http://localhost:5173](http://localhost:5173).
