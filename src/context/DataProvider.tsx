@@ -1,4 +1,4 @@
-import React, { createContext, ReactNode, useEffect, useState } from "react";
+import { createContext, ReactNode, useEffect, useState } from "react";
 import ExploreNode from "../components/ExploreNode";
 import { Edge, Node, useEdgesState, useNodesState } from "@xyflow/react";
 import CategoryNode from "../components/CategoryNode";
